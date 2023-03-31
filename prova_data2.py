@@ -18,5 +18,6 @@ for i in range (3,len(contenido),1):
    dato2=contenido[i].find('\t',dato1+1)
    dato3=contenido[i].find('\t',dato2+1)
 
-   
+#he canviat aquesta frase
+#no entec res
    
